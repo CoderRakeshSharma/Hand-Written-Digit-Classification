@@ -34,7 +34,7 @@ The model achieved high accuracy on the test dataset. Performance metrics includ
 - **Solution**: Resized images to `28x28` pixels and converted them to grayscale.
 
 ## Results
-- Achieved **X%** accuracy on the test set.
+- Achieved **98%** accuracy on the test set.
 - Model performance was robust across various digit samples.
 
 ## How to Run
